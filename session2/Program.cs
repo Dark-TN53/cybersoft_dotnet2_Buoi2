@@ -15,9 +15,9 @@ Console.WriteLine("Hello, World!");
 
 #region Numberic toán tử gán
 
-// int cong = 0;
-// cong += 10;
-// Console.WriteLine ($"Numberic toán tử cộng: {cong}");
+int cong = 0;
+cong += 10;
+Console.WriteLine ($"Numberic toán tử cộng: {cong}");
 
 // int nhan = 500;
 // nhan *= 2;

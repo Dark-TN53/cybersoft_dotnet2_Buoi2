@@ -1,0 +1,15 @@
+D:\1. DOTNET\cybersoft_dotnet2_Buoi2\cybersoft_dotnet2_Buoi2\baitapsession2\obj\Debug\net8.0\baitapsession2.GeneratedMSBuildEditorConfig.editorconfig
+D:\1. DOTNET\cybersoft_dotnet2_Buoi2\cybersoft_dotnet2_Buoi2\baitapsession2\obj\Debug\net8.0\baitapsession2.AssemblyInfoInputs.cache
+D:\1. DOTNET\cybersoft_dotnet2_Buoi2\cybersoft_dotnet2_Buoi2\baitapsession2\obj\Debug\net8.0\baitapsession2.AssemblyInfo.cs
+D:\1. DOTNET\cybersoft_dotnet2_Buoi2\cybersoft_dotnet2_Buoi2\baitapsession2\obj\Debug\net8.0\baitapsession2.csproj.CoreCompileInputs.cache
+D:\1. DOTNET\cybersoft_dotnet2_Buoi2\cybersoft_dotnet2_Buoi2\baitapsession2\obj\Debug\net8.0\baitapsession2.sourcelink.json
+D:\1. DOTNET\cybersoft_dotnet2_Buoi2\cybersoft_dotnet2_Buoi2\baitapsession2\bin\Debug\net8.0\baitapsession2.exe
+D:\1. DOTNET\cybersoft_dotnet2_Buoi2\cybersoft_dotnet2_Buoi2\baitapsession2\bin\Debug\net8.0\baitapsession2.deps.json
+D:\1. DOTNET\cybersoft_dotnet2_Buoi2\cybersoft_dotnet2_Buoi2\baitapsession2\bin\Debug\net8.0\baitapsession2.runtimeconfig.json
+D:\1. DOTNET\cybersoft_dotnet2_Buoi2\cybersoft_dotnet2_Buoi2\baitapsession2\bin\Debug\net8.0\baitapsession2.dll
+D:\1. DOTNET\cybersoft_dotnet2_Buoi2\cybersoft_dotnet2_Buoi2\baitapsession2\bin\Debug\net8.0\baitapsession2.pdb
+D:\1. DOTNET\cybersoft_dotnet2_Buoi2\cybersoft_dotnet2_Buoi2\baitapsession2\obj\Debug\net8.0\baitapsession2.dll
+D:\1. DOTNET\cybersoft_dotnet2_Buoi2\cybersoft_dotnet2_Buoi2\baitapsession2\obj\Debug\net8.0\refint\baitapsession2.dll
+D:\1. DOTNET\cybersoft_dotnet2_Buoi2\cybersoft_dotnet2_Buoi2\baitapsession2\obj\Debug\net8.0\baitapsession2.pdb
+D:\1. DOTNET\cybersoft_dotnet2_Buoi2\cybersoft_dotnet2_Buoi2\baitapsession2\obj\Debug\net8.0\baitapsession2.genruntimeconfig.cache
+D:\1. DOTNET\cybersoft_dotnet2_Buoi2\cybersoft_dotnet2_Buoi2\baitapsession2\obj\Debug\net8.0\ref\baitapsession2.dll
